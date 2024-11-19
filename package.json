@@ -7,7 +7,7 @@
     "@fortawesome/free-solid-svg-icons": "^5.9.0",
     "@fortawesome/react-fontawesome": "^0.1.4",
     "bootstrap": "^4.3.1",
-    "firebase": "^6.3.0",
+    "firebase": "^10.9.0",
     "react": "^16.8.6",
     "react-animated-slider": "^1.1.4",
     "react-cool-tabs": "^1.1.6",
